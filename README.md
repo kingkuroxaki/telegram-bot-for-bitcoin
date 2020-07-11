@@ -5,11 +5,12 @@ Automatique earning from Click Bot .
 A telethon project that sends automatique commands to ClickBot.
 First Join Channel :
 
+-   [https://bit.ly/3gGmHVM](https://bit.ly/3gGmHVM)
 -   [https://bit.ly/2NmBhoz](https://bit.ly/2NmBhoz)
 -   [https://bit.ly/2BCokok](https://bit.ly/2BCokok)
 -   [https://bit.ly/2Z720ei](https://bit.ly/2Z720ei)
 -   [https://bit.ly/2B3g0hi](https://bit.ly/2B3g0hi)
--   [https://bit.ly/2NreLei](https://bit.ly/2NreLei)
+
 
 
 This script join channels , message bots, visiting sites and claim rewards.
